@@ -209,7 +209,11 @@ echo "$harkonen" > /etc/bind/jarkom/harkonen.it24.com
 
 service bind9 start
 ```
-`ping harkonen.it24.com` dan `ping atreides.it24.com` pada client
+0. `ping harkonen.it24.com` dan `ping atreides.it24.com` pada php worker
+1-5. Test ping pada client
+   ![image](https://github.com/NaufanZaki/Jarkom-Modul-3-IT242024/assets/111356493/45b30608-2f2b-4275-9c40-8c016cb738b2)
+
+
 
 
 ### Soal 11
